@@ -1,0 +1,16 @@
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\bin\Debug\net5.0\ListaExercicios01.exe
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\bin\Debug\net5.0\ListaExercicios01.deps.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\bin\Debug\net5.0\ListaExercicios01.runtimeconfig.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\bin\Debug\net5.0\ListaExercicios01.runtimeconfig.dev.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\bin\Debug\net5.0\ListaExercicios01.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\bin\Debug\net5.0\ref\ListaExercicios01.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\bin\Debug\net5.0\ListaExercicios01.pdb
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\obj\Debug\net5.0\ListaExercicios01.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\obj\Debug\net5.0\ListaExercicios01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\obj\Debug\net5.0\ListaExercicios01.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\obj\Debug\net5.0\ListaExercicios01.AssemblyInfo.cs
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\obj\Debug\net5.0\ListaExercicios01.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\obj\Debug\net5.0\ListaExercicios01.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\obj\Debug\net5.0\ref\ListaExercicios01.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\obj\Debug\net5.0\ListaExercicios01.pdb
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\ListaExercicios01\obj\Debug\net5.0\ListaExercicios01.genruntimeconfig.cache
