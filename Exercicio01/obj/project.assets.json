@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodri\\Desktop\\WSGit\\curso_csharp_itau\\curso_csharp_itau\\Aula01\\Aula01.csproj",
-      "projectName": "Aula01",
-      "projectPath": "C:\\Users\\rodri\\Desktop\\WSGit\\curso_csharp_itau\\curso_csharp_itau\\Aula01\\Aula01.csproj",
+      "projectUniqueName": "C:\\Users\\rodri\\Desktop\\WSGit\\curso_csharp_itau\\curso_csharp_itau\\Exercicio01\\Exercicio01.csproj",
+      "projectName": "Exercicio01",
+      "projectPath": "C:\\Users\\rodri\\Desktop\\WSGit\\curso_csharp_itau\\curso_csharp_itau\\Exercicio01\\Exercicio01.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodri\\Desktop\\WSGit\\curso_csharp_itau\\curso_csharp_itau\\Aula01\\obj\\",
+      "outputPath": "C:\\Users\\rodri\\Desktop\\WSGit\\curso_csharp_itau\\curso_csharp_itau\\Exercicio01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config"
