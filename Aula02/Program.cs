@@ -6,93 +6,41 @@ namespace Aula02
     {
         static void Main(string[] args)
         {
-            //Exemplo de Operador Ternario 
-            /*
-            string saudacao = DateTime.Now.AddHours(-4).Hour > 12 ? "Boa Tarde" : "Bom dia";
-            Console.WriteLine(saudacao + " - Hora: " + DateTime.Now.AddHours(-4).Hour);
-
-            saudacao = DateTime.Now.Hour > 12 ? "Boa Tarde" : "Bom dia";
-            Console.WriteLine(saudacao + " - Hora: " + DateTime.Now.Hour + ":"+DateTime.Now.Minute);
-            Console.WriteLine(saudacao + " - Hora: " + DateTime.Now.ToShortTimeString());
-            Console.WriteLine(saudacao + " - Hora: " + DateTime.Now.ToString("HH:mm:ss"));
-            
-
-            int idade = 20;
-            Console.WriteLine(idade > 18 ? "Maior de Idade" : "Menor de Idade");
-            */
-
-            //Exemplo Switch...Case
-
-            Console.Write("Digite o dia da semana: ");
-            if(int.TryParse(Console.ReadLine(), out int diaSemana))
+            int opcao = 0;
+            do
             {
-                //Usando Switch
-                switch(diaSemana)
+                Console.WriteLine(" Digite o número do exemplo: ");
+                Console.WriteLine(" ** 1 - Operador Ternario");
+                Console.WriteLine(" ** 2 - Switch Case");
+                Console.WriteLine(" ** 3 - Exceções");
+                Console.WriteLine(" ** 4 - Checked");
+                Console.WriteLine(" -- 99 para sair");
+                
+
+                int.TryParse(Console.ReadLine(), out opcao);
+
+                switch (opcao)
                 {
                     case 1:
-                        Console.WriteLine("Domingo");
+                        ExemploTernario.executar();
                         break;
                     case 2:
-                        Console.WriteLine("Segunda");
+                        ExemploSwitch.executar();
                         break;
                     case 3:
-                        Console.WriteLine("Terça");
+                        ExemploExcecoes.executar();
                         break;
                     case 4:
-                        Console.WriteLine("Quarta");
+                        ExemploChecked.executar();
                         break;
-                    case 5:
-                        Console.WriteLine("Quinta");
-                        break;
-                    case 6:
-                        Console.WriteLine("Sexta");
-                        break;
-                    case 7:
-                        Console.WriteLine("Sábado");
+                    case 99:
+                        Console.WriteLine("Finalizando programa.");
                         break;
                     default:
-                        Console.WriteLine("Dia Inválido");
+                        Console.WriteLine("Opção inválida.");
                         break;
                 }
-
-                //Exemplo utilizando IF...Else
-                /*
-                if(diaSemana == 1)
-                {
-                    Console.WriteLine("Domingo");
-                } else if (diaSemana == 2)
-                {
-                    Console.WriteLine("Segunda");
-                } else if (diaSemana == 3)
-                {
-                    Console.WriteLine("Terça");
-                }else if (diaSemana == 4)
-                {
-                    Console.WriteLine("Quarta");
-                }
-                else if (diaSemana == 5)
-                {
-                    Console.WriteLine("Quinta");
-                }
-                else if (diaSemana == 6)
-                {
-                    Console.WriteLine("Sexta");
-                }
-                else if (diaSemana == 7)
-                {
-                    Console.WriteLine("Sábado");
-                } else
-                {
-                    Console.WriteLine("Dia inválido");
-                }
-                */
-            }else
-            {
-                Console.WriteLine("Formato Inválido");
-            }
-
-            
-
+            }while(opcao != 99);
         }
     }
 }
