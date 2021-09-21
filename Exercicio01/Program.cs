@@ -36,7 +36,7 @@ namespace Exercicio01
                 Console.WriteLine(" -- Idade: " + idade);
                 Console.WriteLine(" -- Dia do Ano Hoje: " + DateTime.Today.DayOfYear);
                 Console.WriteLine(" -- Dia do Ano do Aniversario do Jose: " + dataNascimento.DayOfYear);
-                DayOfWeek diaSemana = DateTime.Today.DayOfWeek;
+                //DayOfWeek diaSemana = DateTime.Today.DayOfWeek;
                 
                 
 
