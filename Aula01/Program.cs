@@ -67,11 +67,6 @@ namespace Aula01
 
             Console.WriteLine("Nome completo do Aluno: " + nomeAluno + " " + sobrenomeAluno);
             */
-
-
-            
-
-
             
             //idade = idade + 1; //37 int Console.Write
 
@@ -137,10 +132,6 @@ namespace Aula01
             }while(y > 0);
             */
 
-            
-
-            
-            
         }
 
         static int CalcularIdade(DateTime dataNascimento)
