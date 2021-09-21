@@ -58,15 +58,6 @@ namespace Aula01
                 
             }
                   
-            
-
-            
-
-             
-
-            
-            
-
             /*
             Console.Write("Digite o nome do Aluno: ");
             nomeAluno = Console.ReadLine();
