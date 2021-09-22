@@ -17,6 +17,8 @@ namespace ListaExercicios01
                 //Captura e conversão a inteiro da opção digitada
                 int.TryParse(Console.ReadLine(), out opcao);
 
+                
+
                 switch(opcao)
                 {
                     case 1:
