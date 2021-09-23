@@ -8,14 +8,16 @@ namespace ExemploConstrutores
         {
             Carro celtaPreto = new Carro("Chevrolet","Celta");
             celtaPreto.setExtras(true,"Radio Android 7");
-
+            Console.WriteLine($"*** Total Carros: {Carro.ContadorCarros()}");
             Console.WriteLine(celtaPreto.getInfoCarro());
             Console.WriteLine(celtaPreto.getExtras());
-
+            Console.WriteLine("----------------------------------------------------");
             Carro celtaVermelho = new Carro("Chevrolet","Celta");
             celtaVermelho.setExtras(false,"Radio CD MP3");
+            Console.WriteLine("*** Total Carros: " + Carro.ContadorCarros());
             Console.WriteLine(celtaVermelho.getInfoCarro());
             Console.WriteLine(celtaVermelho.getExtras());
+
 
             /*
 

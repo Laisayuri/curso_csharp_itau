@@ -4,6 +4,9 @@ namespace ExemploConstrutores
 {
     class Carro
     {
+        //Propriedade Estática -- Variavel de Classe
+        private static int contador = 0;
+
         //Propriedades da nossa classe
         private string marca;
         private string modelo;
@@ -22,6 +25,8 @@ namespace ExemploConstrutores
             comprimento = 409.3;
             marca = "ND";
             modelo = "ND";
+            
+            contador++;
         }
 
         public Carro(string marca, string modelo)
@@ -31,6 +36,8 @@ namespace ExemploConstrutores
             this.rodas = 4;
             largura = 173.2;
             comprimento = 409.3;
+
+            contador++;
         }
 
         public Carro(double largura, double comprimento,string marca,string modelo)
@@ -40,6 +47,8 @@ namespace ExemploConstrutores
             this.comprimento = comprimento;
             this.marca = marca;
             this.modelo = modelo;
+
+            contador++;
         }
 
         //Métodos
@@ -63,6 +72,13 @@ namespace ExemploConstrutores
             return "****************\n Extras do Carro: \n " +
                     " - Ar Condicionado: " + (arCondicionado ? "Sim" : "Não") + " \n" +
                     " - Kit Multimídia: " + kitMultimidia; 
+        }
+
+        //Método para leitura do contador 
+        public static int ContadorCarros()
+        {
+            return contador;
+            
         }
 
     }
