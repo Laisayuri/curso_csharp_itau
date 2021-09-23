@@ -1,0 +1,16 @@
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\bin\Debug\net5.0\ExemploConversorMoeda.exe
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\bin\Debug\net5.0\ExemploConversorMoeda.deps.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\bin\Debug\net5.0\ExemploConversorMoeda.runtimeconfig.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\bin\Debug\net5.0\ExemploConversorMoeda.runtimeconfig.dev.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\bin\Debug\net5.0\ExemploConversorMoeda.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\bin\Debug\net5.0\ref\ExemploConversorMoeda.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\bin\Debug\net5.0\ExemploConversorMoeda.pdb
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.AssemblyInfo.cs
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\obj\Debug\net5.0\ref\ExemploConversorMoeda.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.pdb
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.genruntimeconfig.cache

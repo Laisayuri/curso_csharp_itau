@@ -8,7 +8,7 @@ namespace ExemploPOO
         //Math.Pow(raio,2) --> Faz a potencia de raio ao quadrado.
         //Math.PI = 3.1416...
 
-        private double pi = 3.1416; //Campo de classe, variável de classe, Propriedade/Atributo
+        public const double pi = 3.1416; //Campo de classe, variável de classe, Propriedade/Atributo
         
         //Método
         public double calcularArea(int raio)

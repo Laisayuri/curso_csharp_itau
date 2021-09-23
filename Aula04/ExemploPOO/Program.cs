@@ -6,7 +6,6 @@ namespace ExemploPOO
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine(" ---- Escolha uma das opções abaixo:");
             Console.WriteLine(" - 1: Área de um Círculo");
             Console.WriteLine(" - 2: Área de um Quadrado");
