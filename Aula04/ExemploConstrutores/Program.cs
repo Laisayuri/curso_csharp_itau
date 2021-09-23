@@ -6,6 +6,9 @@ namespace ExemploConstrutores
     {
         static void Main(string[] args)
         {
+
+
+
             Carro celtaPreto = new Carro("Chevrolet","Celta");
             celtaPreto.setExtras(true,"Radio Android 7");
             Console.WriteLine($"*** Total Carros: {Carro.ContadorCarros()}");
@@ -17,7 +20,6 @@ namespace ExemploConstrutores
             Console.WriteLine("*** Total Carros: " + Carro.ContadorCarros());
             Console.WriteLine(celtaVermelho.getInfoCarro());
             Console.WriteLine(celtaVermelho.getExtras());
-
 
             /*
 

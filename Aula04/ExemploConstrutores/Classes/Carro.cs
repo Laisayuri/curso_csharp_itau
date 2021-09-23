@@ -7,6 +7,9 @@ namespace ExemploConstrutores
         //Propriedade Estática -- Variavel de Classe
         private static int contador = 0;
 
+        //Todas constantes automaticamente sao estaticas
+        public const int testeConstante = 7;
+
         //Propriedades da nossa classe
         private string marca;
         private string modelo;
@@ -78,7 +81,7 @@ namespace ExemploConstrutores
         public static int ContadorCarros()
         {
             return contador;
-            
+
         }
 
     }

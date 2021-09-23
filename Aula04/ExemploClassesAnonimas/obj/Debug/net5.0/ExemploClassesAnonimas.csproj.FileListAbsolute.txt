@@ -1,0 +1,16 @@
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\bin\Debug\net5.0\ExemploClassesAnonimas.exe
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\bin\Debug\net5.0\ExemploClassesAnonimas.deps.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\bin\Debug\net5.0\ExemploClassesAnonimas.runtimeconfig.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\bin\Debug\net5.0\ExemploClassesAnonimas.runtimeconfig.dev.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\bin\Debug\net5.0\ExemploClassesAnonimas.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\bin\Debug\net5.0\ref\ExemploClassesAnonimas.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\bin\Debug\net5.0\ExemploClassesAnonimas.pdb
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\obj\Debug\net5.0\ExemploClassesAnonimas.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\obj\Debug\net5.0\ExemploClassesAnonimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\obj\Debug\net5.0\ExemploClassesAnonimas.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\obj\Debug\net5.0\ExemploClassesAnonimas.AssemblyInfo.cs
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\obj\Debug\net5.0\ExemploClassesAnonimas.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\obj\Debug\net5.0\ExemploClassesAnonimas.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\obj\Debug\net5.0\ref\ExemploClassesAnonimas.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\obj\Debug\net5.0\ExemploClassesAnonimas.pdb
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploClassesAnonimas\obj\Debug\net5.0\ExemploClassesAnonimas.genruntimeconfig.cache
