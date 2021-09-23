@@ -29,6 +29,8 @@ namespace ExemploConstrutores
             this.marca = marca;
             this.modelo = modelo;
             this.rodas = 4;
+            largura = 173.2;
+            comprimento = 409.3;
         }
 
         public Carro(double largura, double comprimento,string marca,string modelo)
@@ -40,6 +42,7 @@ namespace ExemploConstrutores
             this.modelo = modelo;
         }
 
+        //Métodos
         public string getInfoCarro()
         {
             return "*** Informação do carro:\n Rodas: " + rodas + 
@@ -48,5 +51,19 @@ namespace ExemploConstrutores
                     "\n Marca: " + marca +
                     "\n Modelo: " + modelo;
         }
+
+        public void setExtras(bool arCondicionado, string kitMultimidia)
+        {
+            this.arCondicionado = arCondicionado;
+            this.kitMultimidia = kitMultimidia;
+        }
+
+        public string getExtras()
+        {
+            return "****************\n Extras do Carro: \n " +
+                    " - Ar Condicionado: " + (arCondicionado ? "Sim" : "Não") + " \n" +
+                    " - Kit Multimídia: " + kitMultimidia; 
+        }
+
     }
 }
