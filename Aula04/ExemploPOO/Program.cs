@@ -11,6 +11,7 @@ namespace ExemploPOO
             Console.WriteLine(" - 1: Área de um Círculo");
             Console.WriteLine(" - 2: Área de um Quadrado");
             Console.WriteLine(" - 3: Área de um Retângulo");
+            Console.WriteLine(" - 4: Para sair");
             int.TryParse(Console.ReadLine(), out int opcao);
 
             switch(opcao)
@@ -34,6 +35,9 @@ namespace ExemploPOO
                     double.TryParse(Console.ReadLine(), out double alturaR);
                     Retangulo retangulo1 = new Retangulo();
                     Console.WriteLine(" ** Área do Retângulo: " + retangulo1.calcularArea(baseR,alturaR));
+                    break;
+                case 4:
+                    Console.WriteLine(" - Finalizando o programa.");
                     break;
                 default:
                     Console.WriteLine(" - Opção Inválida");
