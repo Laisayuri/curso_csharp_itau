@@ -9,8 +9,11 @@ namespace ExemploConstrutores
             Carro celtaPreto = new Carro();
             Console.WriteLine(celtaPreto.getInfoCarro());
 
-            Carro impala67 = new Carro(190.2,480.4);
+            Carro impala67 = new Carro(190.2,480.4,"Chevrolet","Impala");
             Console.WriteLine(impala67.getInfoCarro());
+
+            Carro camaroAmarelo = new Carro("Chevrolet","Camaro");
+            Console.WriteLine(camaroAmarelo.getInfoCarro());
             
  
         }
