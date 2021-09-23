@@ -1,0 +1,16 @@
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\bin\Debug\net5.0\ExemploArrays.exe
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\bin\Debug\net5.0\ExemploArrays.deps.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\bin\Debug\net5.0\ExemploArrays.runtimeconfig.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\bin\Debug\net5.0\ExemploArrays.runtimeconfig.dev.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\bin\Debug\net5.0\ExemploArrays.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\bin\Debug\net5.0\ref\ExemploArrays.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\bin\Debug\net5.0\ExemploArrays.pdb
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\obj\Debug\net5.0\ExemploArrays.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\obj\Debug\net5.0\ExemploArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\obj\Debug\net5.0\ExemploArrays.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\obj\Debug\net5.0\ExemploArrays.AssemblyInfo.cs
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\obj\Debug\net5.0\ExemploArrays.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\obj\Debug\net5.0\ExemploArrays.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\obj\Debug\net5.0\ref\ExemploArrays.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\obj\Debug\net5.0\ExemploArrays.pdb
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula04\ExemploArrays\obj\Debug\net5.0\ExemploArrays.genruntimeconfig.cache
