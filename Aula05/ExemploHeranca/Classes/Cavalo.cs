@@ -15,5 +15,10 @@ namespace ExemploHeranca
         {
             Console.WriteLine("Sou capaz de galopar.");
         }
+
+        public override void Pensar()
+        {
+            Console.WriteLine("Pensamento algo avançado instintivo");
+        }
     }
 }

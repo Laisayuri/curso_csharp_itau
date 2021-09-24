@@ -29,5 +29,10 @@ namespace ExemploHeranca
             Console.WriteLine("- O nome do animal é: " + nomeAnimal);
         }
 
+        public virtual void Pensar()
+        {
+            Console.WriteLine("Pensamento básico instintivo");
+        }
+
     }
 }

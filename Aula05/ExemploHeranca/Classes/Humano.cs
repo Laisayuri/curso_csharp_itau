@@ -7,10 +7,10 @@ namespace ExemploHeranca
         //Construtor
         public Humano(string nomeAnimal):base(nomeAnimal)
         {
-            
+
         }
 
-        public void Pensar()
+        public override void Pensar()
         {
             Console.WriteLine("Sou capaz de pensar.");
         }

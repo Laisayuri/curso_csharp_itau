@@ -12,9 +12,23 @@ namespace ExemploHeranca
 
             Morcego vampiro = new Morcego("Batman");
 
+            Cavalo pangare = new Cavalo("Pangaré");
+
+            Mamiferos[] arrayAnimais = new Mamiferos[4];
+            arrayAnimais[0] = mangalarga;
+            arrayAnimais[1] = pangare;
+            arrayAnimais[2] = sapiens;
+            arrayAnimais[3] = vampiro;
+
+            for(int i=0; i<4; i++)
+            {
+                arrayAnimais[i].Pensar();
+            }
+
             /**************************************************
                 EXEMPLOS PRINCIPIOS DE SUBSTITUICAO
             *************************************************/
+            /*
             Cavalo pangare = new Cavalo("Pangaré");
             Mamiferos animal = new Mamiferos("Mamifero");
 
@@ -58,6 +72,7 @@ namespace ExemploHeranca
             Console.WriteLine("******* MORCEGO ********");
             vampiro.getNomeAnimal();
             vampiro.Voar();
+            */
         }
     }
 }
