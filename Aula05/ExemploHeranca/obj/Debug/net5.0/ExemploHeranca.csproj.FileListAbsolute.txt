@@ -1,0 +1,16 @@
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.exe
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.deps.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.runtimeconfig.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.runtimeconfig.dev.json
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\bin\Debug\net5.0\ref\ExemploHeranca.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.pdb
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.AssemblyInfo.cs
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\obj\Debug\net5.0\ref\ExemploHeranca.dll
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.pdb
+C:\Users\rodri\Desktop\WSGit\curso_csharp_itau\curso_csharp_itau\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.genruntimeconfig.cache
