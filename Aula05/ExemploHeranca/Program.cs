@@ -14,6 +14,22 @@ namespace ExemploHeranca
 
             Cavalo pangare = new Cavalo("Pangaré");
 
+            Baleia orca = new Baleia("Willy"); 
+
+            //Console.WriteLine("Número de patas cavalo: " + mangalarga.NumeroPatas());
+            
+
+
+            IMamiferosTerrestre numeroPatasCavalo = mangalarga;
+            Console.WriteLine("Número de patas do cavalo: " + numeroPatasCavalo.NumeroPatas());
+
+            ISaltoComPatas numeroSaltoPatas = mangalarga;
+            Console.WriteLine("Salto com " + numeroSaltoPatas.NumeroPatas() + " patas");
+
+            //Console.WriteLine("Número de patas de um morcego: " + vampiro.NumeroPatas());
+            
+
+
             Mamiferos[] arrayAnimais = new Mamiferos[4];
             arrayAnimais[0] = mangalarga;
             arrayAnimais[1] = pangare;

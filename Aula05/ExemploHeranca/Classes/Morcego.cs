@@ -2,7 +2,7 @@ using System;
 
 namespace ExemploHeranca
 {
-    class Morcego : Mamiferos
+    class Morcego : Mamiferos,IMamiferosTerrestre
     {
         //Construtor
         public Morcego(string nomeMamifero):base(nomeMamifero)
@@ -13,6 +13,12 @@ namespace ExemploHeranca
         public void Voar()
         {
             Console.WriteLine("Sou capaz de voar.");
+        }
+
+        //Metodo interface
+        public int NumeroPatas()
+        {
+            return 2;
         }
     }
 }

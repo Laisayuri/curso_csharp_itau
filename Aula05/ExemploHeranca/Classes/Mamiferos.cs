@@ -6,7 +6,7 @@ namespace ExemploHeranca
     {
         //Propriedade Encapsulada
         private string nomeAnimal;
-
+    
         //Construtor
         public Mamiferos(string nomeAnimal)
         {
@@ -14,7 +14,7 @@ namespace ExemploHeranca
         }
 
         //Defino dois métodos comuns a todos os mamíferos
-        public void Respirar()
+        protected void Respirar()
         {
             Console.WriteLine("Sou capaz de respirar.");
         }
