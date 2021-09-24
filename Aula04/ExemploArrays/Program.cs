@@ -79,6 +79,12 @@ namespace ExemploArrays
                 new{Fabricante="Microsoft",Modelo="XBOX Serie X",Valor=499.99}
             };
 
+            Console.WriteLine("-----------------------------------");
+            foreach(var func in arrFuncionarios)
+            {
+                Console.WriteLine("Nome: " + func.Nome);   
+            }
+
             
 
 
